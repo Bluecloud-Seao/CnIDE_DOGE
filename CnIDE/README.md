@@ -1,5 +1,5 @@
 Put the vscode here.
 
-And the program can run.
+And the program will run.
 
 :)
